@@ -325,7 +325,7 @@ are not part of this repository:
 
 | Library | License |
 | --- | --- |
-| [lib-pardona](https://github.com/KempaLars/lib-pardona) (LibPardona-1.0) | MIT |
+| [lib-pardona](https://github.com/Pardonas-addons/lib-pardona) (LibPardona-1.0) | MIT |
 | LibStub (shipped with lib-pardona) | Public Domain |
 
 For development, `tools\fetch-libs.ps1` copies the library into `Libs\lib-pardona` – from a
