@@ -4,6 +4,8 @@ A tooltip addon for **World of Warcraft: Forever** (Interface 16001, Mainline cl
 
 > **Beta** – this addon is in an early stage. The current version covers the tooltip appearance, player and mob information (including spec), item level, gear comparison and disenchant/price information. Please report problems in the GitHub issues.
 
+**Changelog:** [CHANGELOG.md](CHANGELOG.md) · https://pardonas-addons.de/tooltips/changelog
+
 ## Features (current state)
 
 ### Appearance

@@ -7,6 +7,10 @@ externals:
     url: https://github.com/Pardonas-addons/lib-pardona
     tag: latest
 
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
+
 ignore:
   - README.md
   - media
